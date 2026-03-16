@@ -14,7 +14,7 @@
   </style>
 </head>
 <body><header>
-  <img profile.jpg/>
+  <img<img src="profile.jpg" alt="My Photo" width="200">/>
   <h1>MD Nahid Hassan</h1>
   <p>Student | Content Creator | Learner</p>
 </header><section>
