@@ -14,7 +14,7 @@
   </style>
 </head>
 <body><header>
-  <img src="profile.jpg" alt="profile" />
+  <img profile.jpg/>
   <h1>MD Nahid Hassan</h1>
   <p>Student | Content Creator | Learner</p>
 </header><section>
@@ -35,7 +35,7 @@
   <h2>যোগাযোগ</h2>
   <div class="card">
     <p>Facebook https://www.facebook.com/share/1GBKmXH4yY/</p>
-    <p>Email:mdnahidhassan6502@gmail.com</p>
+    <p>Email: mdnahidhassan6502@gmail.com</p>
   </div>
 </section><footer>
   <p>© 2026 Nahid Hassan</p>
