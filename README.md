@@ -20,7 +20,7 @@
 </header><section>
   <h2>আমার সম্পর্কে</h2>
   <div class="card">
-    <p>আমি নাহিদ হাসান। আমি নতুন জিনিস শিখতে এবং অন্যদের সহজভাবে বুঝিয়ে দিতে ভালোবাসি। আমি পড়াশোনা, শিক্ষা বিষয়ক কনটেন্ট এবং সৃজনশীল কাজ করতে আগ্রহী।</p>
+    <p>আমি নাহিদ হাসান। বিএ(অনার্স) ইসলামের ইতিহাস ও সংস্কৃতি।</p>
   </div>
 </section><section>
   <h2>আমি যা করি</h2>
@@ -34,8 +34,8 @@
 </section><section>
   <h2>যোগাযোগ</h2>
   <div class="card">
-    <p>Facebook: your-facebook-link</p>
-    <p>Email: your-email@example.com</p>
+    <p>Facebook https://www.facebook.com/share/1GBKmXH4yY/</p>
+    <p>Email:mdnahidhassan6502@gmail.com</p>
   </div>
 </section><footer>
   <p>© 2026 Nahid Hassan</p>
